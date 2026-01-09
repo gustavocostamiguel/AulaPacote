@@ -1,0 +1,12 @@
+.pacote{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 0.2rem;
+    *{
+        background-color: aquamarine;
+
+    }
+    dd{
+        margin: 0;
+    }
+}
